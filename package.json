@@ -1,0 +1,11 @@
+{
+  "name": "sorpresa-alejandra-host",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve -s renovacion-convenio -l $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
